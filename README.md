@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Vimal 👋  
 
 <!--
 **vimalkvn/vimalkvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/vimalkvn/vimalkvn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalkvn&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/vimalkvn/vimalkvn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkvn" />
-</a>
 
-Stats created with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+#### 🔭 I write quick-start guides for Linux and open source software
+
+📫 You can follow me on [Mastodon](https://mastodon.social/@vimalkvn), subscribe to [my channel on YouTube](https://www.youtube.com/channel/UCNh1xjKrHEu3N4NZUG_Fq2g), or send me [an email](mailto:vimal@disroot.org).
+
+⚡ For updates on my books and courses, you can subscribe to my [mini newsletter](https://vimalkvn.substack.com/).
+
+🌱 Visit [my website](https://vimalkvn.com)

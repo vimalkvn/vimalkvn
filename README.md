@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 #### 🔭 I write quick-start guides for Linux and open source software
 
-📫 You can follow me on [Mastodon](https://mastodon.social/@vimalkvn), subscribe to [my channel on YouTube](https://www.youtube.com/channel/UCNh1xjKrHEu3N4NZUG_Fq2g), or send me [an email](mailto:vimal@disroot.org).
+📫 You can follow me on [Mastodon](https://mastodon.social/@vimalkvn), subscribe to my channel on [YouTube](https://www.youtube.com/@vimalkvn), or send me [an email](mailto:vimal@disroot.org).
 
-⚡ For updates on my books and courses, you can subscribe to my [mini newsletter](https://vimalkvn.substack.com/).
+⚡ For updates on my books and courses, you can subscribe to my tiny [newsletter](https://vimalkvn.substack.com/).
 
 🌱 Visit [my website](https://vimalkvn.com)

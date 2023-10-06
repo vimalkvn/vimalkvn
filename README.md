@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-#### 🔭 I write quick-start guides for Linux and open source software.
-
-📫 You can follow me on [Mastodon](https://mastodon.social/@vimalkvn), subscribe to my channel on [YouTube](https://www.youtube.com/@vimalkvn), or send me [an email](mailto:vimal@disroot.org).
-
-⚡ For updates on my books and courses, you can subscribe to my tiny [newsletter](https://vimalkvn.substack.com/).
+I'm the developer of the [Biomint Desktop](https://vimalkvn.com/biomint) and author of the [Linux for Biologists](https://vimalkvn.com/linuxforbiologists) book.
 
 🌱 Visit [my website](https://vimalkvn.com).
